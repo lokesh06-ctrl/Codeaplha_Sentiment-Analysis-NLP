@@ -1,0 +1,10 @@
+pandas
+selenium
+webdriver-manager
+beautifulsoup4
+nltk
+textblob
+NRCLex
+matplotlib
+wordcloud
+streamlit

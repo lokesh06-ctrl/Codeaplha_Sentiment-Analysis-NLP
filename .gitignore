@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+output/amazon_page.html
+
+*.log
+
+.DS_Store
+Thumbs.db

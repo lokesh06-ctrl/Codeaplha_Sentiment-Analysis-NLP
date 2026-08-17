@@ -1,0 +1,7 @@
+Review,Sentiment,Polarity,Subjectivity,Emotion
+I absolutely love this product. The quality is amazing!,Positive,0.625,0.75,joy
+This product is terrible and I am very disappointed.,Negative,-0.9875,0.9875,sadness
+The product is okay. Nothing special.,Neutral,0.4285714285714286,0.5357142857142857,Neutral
+The battery life is excellent and I am very happy with it.,Positive,1.0,1.0,joy
+I hate the quality. It stopped working after two days.,Negative,-0.8,0.9,anger
+The delivery was normal and the product is average.,Neutral,0.0,0.5249999999999999,Neutral
